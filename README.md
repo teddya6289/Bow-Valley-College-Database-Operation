@@ -11,4 +11,4 @@ How does it do this? It does it by first asking the user to choose which of the 
 respective database and open up an SQL statement prompt for the user to work with. This is important because it saves the user resources and time of having to install the database 
 tool for both MSSQL Sever and Oracle (SSMS, SQL developer), with this program the user can utilize both functionalities seamlessly.  
 
-**Please find attached the file [`db_operation python code`](db_operation.ipynb) and the presentation document [`presentation_Doc`](Assessment.Database Operation.doc)**.
+**Please find attached the file [`db_operation python code`](db_operation.ipynb)**.
